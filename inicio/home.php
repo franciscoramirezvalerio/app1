@@ -3,4 +3,5 @@
 	echo "Descripcion del Inicio.";
 	echo "Mensaje de Inicio.";
 	echo "SONY VAIO WHITE";
+	echo "Desde Acer.";
 ?>

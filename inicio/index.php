@@ -5,5 +5,5 @@
 	echo "<h1>Index</h1>";
 	echo "SONY VAIO ACER .";
 	echo "SONY VAIO";
-	echo "Desde SONY";
+	echo "Desde Acer";
 ?>
