@@ -1,7 +1,7 @@
 <?php
 	echo "Inicio";
 	echo "Nueva linea en Inicio";
-	echo "9:37pm";
+	echo "8:16pm";
 	echo "<h1>Index</h1>";
-	echo "SONY";
+	echo "SONY VAIO";
 ?>
