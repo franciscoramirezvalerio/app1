@@ -1,3 +1,3 @@
 <?php
-echo "Home2222";
+echo "->Home";
 ?>
