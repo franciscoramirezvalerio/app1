@@ -1,5 +1,5 @@
 <?php
-echo "INDEX";
+echo "INDEX SONY";
 echo "<label>Nombre:</label>";
 echo "<input type='text' name='nombre' id='nombre'>";
 echo "<label>Apellido:</label>";
