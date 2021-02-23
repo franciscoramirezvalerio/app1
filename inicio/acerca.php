@@ -1,5 +1,3 @@
 <?php
-        echo "->Acerca2";
-
-        ECHO "V";
+    echo "->Acerca2";
 ?>
