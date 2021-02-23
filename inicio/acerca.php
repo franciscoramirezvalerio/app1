@@ -1,3 +1,3 @@
 <?php
-	echo "<h1>Acerca de</h1>";
+	echo "<h1>ACERCA DE</h1>";
 ?>
