@@ -1,3 +1,3 @@
 <?php
-	echo "<h1>ACERCA DE</h1>";
+	echo "<h1>Acerca de -<z</h1>";
 ?>
