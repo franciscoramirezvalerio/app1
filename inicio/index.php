@@ -1,3 +1,3 @@
 <?php
-echo "INDICE LENOVO";
+echo "INDEX......";
 ?>
